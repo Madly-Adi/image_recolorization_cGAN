@@ -1,0 +1,22 @@
+# Ignore dataset directory
+data/
+
+# Ignore trained model files
+*.pth
+
+# Ignore generated output images
+outputs/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
